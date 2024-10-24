@@ -57,13 +57,13 @@ npm start
 
 ### Generate Reports
    
-- GET ```bash /api/report/pdf ```
+- GET ``` /api/report/pdf ```
   Generate and download a PDF report of leads.
 
-- GET ```bash /api/report/csv ```
+- GET ``` /api/report/csv ```
   Generate and download a CSV report of leads.
 
 ### Health Check
    
-- GET ```bash / ```
+- GET ``` / ```
   Check if the server is running.
