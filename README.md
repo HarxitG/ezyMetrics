@@ -48,17 +48,19 @@ Copy code
 npm start
 ```
 
-API Endpoints
+## API Endpoints
+
 1. Fetch and Store Data
 POST /api/etl
 Simulate fetching and storing leads and campaigns.
+
 2. Generate Reports
-GET /api/report/pdf
+-GET /api/report/pdf
 Generate and download a PDF report of leads.
 
-GET /api/report/csv
+-GET /api/report/csv
 Generate and download a CSV report of leads.
 
 3. Health Check
-GET /
+-GET /
 Check if the server is running.
