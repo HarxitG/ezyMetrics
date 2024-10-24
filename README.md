@@ -52,18 +52,18 @@ npm start
 
 ### Fetch and Store Data
    
-- POST /api/etl
+- POST ```bash /api/etl ```
   Simulate fetching and storing leads and campaigns.
 
 ### Generate Reports
    
-- GET /api/report/pdf
+- GET ```bash /api/report/pdf ```
   Generate and download a PDF report of leads.
 
-- GET /api/report/csv
+- GET ```bash /api/report/csv ```
   Generate and download a CSV report of leads.
 
 ### Health Check
    
-- GET /
+- GET ```bash / ```
   Check if the server is running.
