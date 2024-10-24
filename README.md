@@ -52,7 +52,7 @@ npm start
 
 ### Fetch and Store Data
    
--POST /api/etl
+- POST /api/etl
  Simulate fetching and storing leads and campaigns.
 
 ### Generate Reports
